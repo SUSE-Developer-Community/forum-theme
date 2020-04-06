@@ -1,0 +1,21 @@
+{
+    "key": "suse",
+    "name": "SUSE Theme",
+    "description": "A SCSS boilerplate for vanilla responsive themes.",
+    "hidden": false,
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Andrew Gracey",
+            "email": "andrew.gracey@suse.com"
+        }
+    ],
+    "isResponsive": true,
+    "license": "GPL-2.0-only",
+    "sites": [],
+    "priority": 1000,
+    "type": "theme",
+    "build": {
+        "process": "v1"
+    }
+}
