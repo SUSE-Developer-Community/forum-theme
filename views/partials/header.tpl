@@ -15,7 +15,14 @@
             </div>
 
 	    <div id="logo" class="Header-logo">
-                <a href="https://www.explore.suse.dev/" class="custom-logo-link" rel="home"><img width="196" height="122" src="https://www.explore.suse.dev/wp-content/uploads/2020/03/suse_logo_w-tag_color.jpg" class="custom-logo" alt="We adapt. You succeed."></a><a rel="home" href="https://www.explore.suse.dev/"><h1 rel="home" class="site-title" title="SUSE Developer Program">SUSE Developer Program</h1><h2 class="site-description" title=""></h2></a>        </div>
+                <a href="https://www.explore.suse.dev/" class="custom-logo-link" rel="home">
+                    <img width="196" height="122" src=https://www.explore.suse.dev/wp-content/uploads/2020/04/SUSE_Logo-hor_L_Green-White-neg_sRGB.svg" class="custom-logo" alt="We adapt. You succeed.">
+                </a>
+                <a rel="home" href="https://www.explore.suse.dev/">
+                    <h1 rel="home" class="site-title" title="SUSE Developer Program">Developer Program</h1>
+                    <h2 class="site-description" title=""></h2>
+                </a>
+            </div>
 
 
             <a href="{home_link format="%url"}" class="Header-logo mobile">

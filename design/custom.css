@@ -254,8 +254,6 @@
     padding: 3px 0;
     float: left;
     padding: 1em 7em 2em 3em;
-    background-color: white;
-    clip-path: polygon(0 100%, 0 0, 100% 0, 75% 100%);
     margin-left: -17px;
 }
 
@@ -277,18 +275,18 @@
 
 
 h1.site-title {
-    color: #133043;
+    color: white;
     font-size: 15px;
     line-height: 1;
     font-weight: 600;
     margin-top: 0px;
-
+    font-family: PT Sans, Helvetica, Arial;
     width: 186px;
+    margin: 0 auto;
 }
 
 #MainHeader {
-  background-color: #00c081;
-
+  background-color: #0c322c;
 }
 
 .BoxButtons .Button.Primary, .groupToolbar .Button.Primary, 
