@@ -25,9 +25,6 @@
             </div>
 
 
-            <a href="{home_link format="%url"}" class="Header-logo mobile">
-                {mobile_logo}
-            </a>
             <nav class="Header-desktopNav">
                 {categories_link format=$linkFormat}
                 {discussions_link format=$linkFormat}

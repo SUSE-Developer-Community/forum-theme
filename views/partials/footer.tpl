@@ -11,7 +11,7 @@
 <li id="menu-item-335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335"><a href="https://www.suse.com/company/legal/terms-of-use/"><span class="screen-reader-text">Terms of Use</span></a></li>
 </ul></div>
       <span class="rights">
-      © <script type="text/javascript">var d = new Date(); document.write(d.getFullYear() + " ");</script>2020  SUSE, All Rights Reserved
+      © <script type="text/javascript">var d = new Date(); document.write(d.getFullYear() + " ");</script> SUSE, All Rights Reserved
       </span>
     </div>
 </footer>
