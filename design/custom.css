@@ -253,7 +253,7 @@
     display: block;
     padding: 3px 0;
     float: left;
-    padding: 1em 7em 2em 3em;
+    padding: 1em 7em 1em 3em;
     margin-left: -17px;
 }
 
@@ -424,6 +424,7 @@ footer, #footer {
 footer .copy {
     margin: 1em 0 0 0;
     font-weight: 300;
+    padding-top: 16px;
 }
 
 footer .copy img {
@@ -523,3 +524,11 @@ a, a:visited {
 .action-link {
     padding-top: 1em;
 }
+
+.Buttons .Back a, a.Bookmark:before, a.Bookmarked:before, a.Bookmarked:hover:before,  .Breadcrumbs .Last a, .Breadcrumbs a, 
+.Breadcrumbs a:focus, .Breadcrumbs a:hover, .Breadcrumbs .Last a:focus, .Breadcrumbs .Last a:hover {
+    color: #02d35f !important;
+text-transform: uppercase;
+}
+
+
